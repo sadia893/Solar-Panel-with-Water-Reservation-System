@@ -1,5 +1,5 @@
 # Solar-Panel-with-Water-Reservation-System
-
+(Proteus was used to code)
 **Objective**
 The objective of the project is to make a system where solar panel in the rooftop along with water reservoir under it are used for multipurpose in the ever-growing busy cities.
 Normally when there is sunlight and no rain, solar panel will do its usual job, reserving electricity. But when there is rain, solar panels’ shaft will close together, making space for the reservoir to collect rain water. When the water tank is full then some water will be moved by pipe to the garden trees.
